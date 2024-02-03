@@ -14,7 +14,7 @@ const getBodyContent = () => {
                                     width="280"
                                     height="278"
                                     src="./images/drawers.jpg"
-                                    alt="" />
+                                    alt="Drawers" />
                             </div>
                         </div>
                         <div class="card__content">
