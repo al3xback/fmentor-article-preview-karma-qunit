@@ -11,9 +11,9 @@ const getBodyContent = () => {
                         <div class="card__image">
                             <div class="card__image-inner">
                                 <img
+                                    src="./images/drawers.jpg"
                                     width="280"
                                     height="278"
-                                    src="./images/drawers.jpg"
                                     alt="Drawers" />
                             </div>
                         </div>
@@ -31,10 +31,10 @@ const getBodyContent = () => {
                             <div class="card__author">
                                 <div class="card__author-img-box">
                                     <img
+                                        src="./images/avatar.jpg"
                                         class="card__author-img"
                                         width="40"
                                         height="40"
-                                        src="./images/avatar.jpg"
                                         alt="Michelle Appleton" />
                                 </div>
                                 <div class="card__author-info">
